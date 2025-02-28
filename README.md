@@ -6,9 +6,9 @@ SmartCoop is an intelligent door system designed to automate poultry access to t
 
 # Features
 
--Automatic access control: The door opens and closes automatically based on light intensity and bird count.
--Manual control: Users can manually operate the system through a numeric keypad and LCD display.
--Remote control via mobile app: Users can monitor and control the system from anywhere.
+**Automatic access control:** The door opens and closes automatically based on light intensity and bird count.
+**Manual control:** Users can manually operate the system through a numeric keypad and LCD display.
+**Remote control via mobile app:** Users can monitor and control the system from anywhere.
 
 **Real-time monitoring:** Number of birds in the shelter, Total number of birds, Light intensity levels.
 **Security & Authentication:** Secure access with PIN code entry, Encrypted sensor data transmission.
@@ -17,7 +17,7 @@ SmartCoop is an intelligent door system designed to automate poultry access to t
 
 # Technologies Used
 
--Hardware:
+**Hardware:**
         -Arduino Mega
         -NodeMCU ESP8266
         -DC motor with driver
@@ -26,7 +26,7 @@ SmartCoop is an intelligent door system designed to automate poultry access to t
         -LCD Display
         -Numeric keypad
 
-Software:
+**Software:**
         -Arduino IDE for embedded programming
         -Flutter for mobile application development
         -Firebase for backend and real-time data storage
