@@ -10,10 +10,11 @@ SmartCoop is an intelligent door system designed to automate poultry access to t
 -Manual control: Users can manually operate the system through a numeric keypad and LCD display.
 -Remote control via mobile app: Users can monitor and control the system from anywhere.
 
--Real-time monitoring:
-       -Number of birds in the shelter.
-       -Total number of birds.
-       -Light intensity levels.
+**Features:** Automatic access control, Manual control, Remote control via mobile app.
+**Real-time monitoring:** Number of birds in the shelter, Total number of birds, Light intensity levels.
+**Security & Authentication:** Secure access with PIN code entry, Encrypted sensor data transmission.
+**User-friendly mobile interface:** Login and registration, Dedicated control and monitoring pages, Real-time notifications.
+
 
 -Security & Authentication: 
        -Secure access with PIN code entry.
